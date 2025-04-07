@@ -11,11 +11,11 @@
 		  "frames": [
 				  {
 					"filename": "NewWarrior_0.png",
-					"frame": { "x": 0, "y": 0, "w": 45, "h": 40 },
+					"frame": { "x": 0, "y": 0, "w": 45, "h": 74 },
 					"rotated": false,
 					"trimmed": false,
-					"spriteSourceSize": { "x": 0, "y": 0, "w": 45, "h": 40 },
-					"sourceSize": { "w": 45, "h": 40 }
+					"spriteSourceSize": { "x": 0, "y": 0, "w": 45, "h": 74 },
+					"sourceSize": { "w": 45, "h": 74 }
 				  },
 				  {
 					"filename": "NewWarrior_1.png",
