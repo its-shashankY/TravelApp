@@ -19,11 +19,11 @@
 				},
 				{
 				  "filename": "idle_down_2.png",
-				  "frame": { "x": 32, "y": 0, "w": 32, "h": 48 },
+				  "frame": { "x": 35, "y": 0, "w": 35, "h": 50 },
 				  "rotated": false,
 				  "trimmed": false,
-				  "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
-				  "sourceSize": { "w": 32, "h": 48 }
+				  "spriteSourceSize": { "x": 0, "y": 0, "w": 35, "h": 50 },
+				  "sourceSize": { "w": 35, "h": 50 }
 				},
 				{
 				  "filename": "idle_down_3.png",
