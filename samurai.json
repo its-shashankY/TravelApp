@@ -15,7 +15,7 @@
 				  "rotated": false,
 				  "trimmed": false,
 				  "spriteSourceSize": { "x": 0, "y": 0, "w": 35, "h": 50 },
-				  "sourceSize": { "w": 25, "h": 50 }
+				  "sourceSize": { "w": 35, "h": 50 }
 				},
 				{
 				  "filename": "idle_down_2.png",
