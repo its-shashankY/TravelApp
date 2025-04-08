@@ -353,6 +353,196 @@
                         "h": 1341
                       }
                   }
+                  ,
+                  {
+                    "filename": "run_up_0.png",
+                    "frame": {
+                        "x": 2,
+                        "y": 510,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "rotated": false,
+                        "trimmed": false,
+                        "spriteSourceSize": {
+                        "x": 2,
+                        "y": 510,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "sourceSize": {
+                        "w": 836,
+                        "h": 1341
+                        }
+                  },
+                  {
+                    "filename": "run_up_1.png",
+                    "frame": {
+                        "x": 65,
+                        "y": 510,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "rotated": false,
+                        "trimmed": false,
+                        "spriteSourceSize": {
+                        "x": 65,
+                        "y": 510,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "sourceSize": {
+                        "w": 836,
+                        "h": 1341
+                        }
+                  },
+                  {
+                    "filename": "run_up_2.png",
+                   "frame": {
+                        "x": 128,
+                        "y": 510,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "rotated": false,
+                        "trimmed": false,
+                        "spriteSourceSize": {
+                        "x": 128,
+                        "y": 510,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "sourceSize": {
+                        "w": 836,
+                        "h": 1341
+                        }
+                  },
+                  {
+                    "filename": "run_up_3.png",
+                    "frame": {
+                        "x": 191,
+                        "y": 510,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "rotated": false,
+                        "trimmed": false,
+                        "spriteSourceSize": {
+                        "x": 191,
+                        "y": 510,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "sourceSize": {
+                        "w": 836,
+                        "h": 1341
+                        }
+                  },
+                  {
+                    "filename": "run_up_4.png",
+                    "frame": {
+                    "x": 254,
+                    "y": 510,
+                    "w": 63,
+                    "h": 60
+                    },
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {
+                    "x": 254,
+                    "y": 510,
+                    "w": 63,
+                    "h": 60
+                    },
+                    "sourceSize": {
+                    "w": 836,
+                    "h": 1341
+                    }
+                  },
+                  {
+                    "filename": "run_up_5.png",
+                   "frame": {
+                    "x": 317,
+                    "y": 510,
+                    "w": 63,
+                    "h": 60
+                    },
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {
+                    "x": 317,
+                    "y": 510,
+                    "w": 63,
+                    "h": 60
+                    },
+                    "sourceSize": {
+                    "w": 836,
+                    "h": 1341
+                    }
+                  },
+                  {
+                    "filename": "run_up_6.png",
+                   "frame": {
+                    "x": 380,
+                    "y": 510,
+                    "w": 63,
+                    "h": 60
+                    },
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {
+                    "x": 380,
+                    "y": 510,
+                    "w": 63,
+                    "h": 60
+                    },
+                    "sourceSize": {
+                    "w": 836,
+                    "h": 1341
+                    }
+                  },
+                  {
+                    "filename": "run_up_7.png",
+                    "frame": {
+                    "x": 443,
+                    "y": 510,
+                    "w": 63,
+                    "h": 60
+                    },
+                    "rotated": false,
+                    "trimmed": false,
+                    "spriteSourceSize": {
+                    "x": 443,
+                    "y": 510,
+                    "w": 63,
+                    "h": 60
+                    },
+                    "sourceSize": {
+                    "w": 836,
+                    "h": 1341
+                    }
+                  },
+                  {
+                    "filename": "run_up_8.png",
+                   "frame": {
+                        "x": 506,
+                        "y": 510,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "rotated": false,
+                        "trimmed": false,
+                        "spriteSourceSize": {
+                        "x": 506,
+                        "y": 510,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "sourceSize": {
+                        "w": 836,
+                        "h": 1341
+                        }
+                  }
                   
             ]
         }
