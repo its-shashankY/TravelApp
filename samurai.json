@@ -19,7 +19,7 @@
     },
     {
       "filename": "NewWarrior_1",
-      "frame": { "x": 80, "y": 0, "w": 80, "h": 74 },
+      "frame": { "x": 160, "y": 0, "w": 80, "h": 74 },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 74 },
