@@ -8,42 +8,40 @@
 				"h": 1334
 			},
 			"scale": 1,
-		  "frames": [
-				  {
-					"filename": "NewWarrior_0.png",
-					"frame": { "x": 0, "y": 0, "w": 45, "h": 74 },
-					"rotated": false,
-					"trimmed": false,
-					"spriteSourceSize": { "x": 0, "y": 0, "w": 45, "h": 74 },
-					"sourceSize": { "w": 45, "h": 74 }
-				  },
-				  {
-					"filename": "NewWarrior_1.png",
-					"frame": { "x": 80, "y": 0, "w": 80, "h": 74 },
-					"rotated": false,
-					"trimmed": false,
-					"spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 74 },
-					"sourceSize": { "w": 80, "h": 74 }
-				  },
-				  {
-					"filename": "NewWarrior_179.png",
-					"frame": { "x": 720, "y": 1320, "w": 80, "h": 74 },
-					"rotated": false,
-					"trimmed": false,
-					"spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 74 },
-					"sourceSize": { "w": 80, "h": 74 }
-				  }
-				],
-				"meta": {
-				  "app": "Custom Sprite Sheet Generator",
-				  "version": "1.0",
-				  "image": "NewWarrior.png",
-				  "format": "RGBA8888",
-				  "size": { "w": 808, "h": 1334 },
-				  "scale": 1
-				}
-			  }
-	],
+		 "frames": [
+    {
+      "filename": "NewWarrior_0",
+      "frame": { "x": 0, "y": 0, "w": 80, "h": 74 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 74 },
+      "sourceSize": { "w": 80, "h": 74 }
+    },
+    {
+      "filename": "NewWarrior_1",
+      "frame": { "x": 80, "y": 0, "w": 80, "h": 74 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 74 },
+      "sourceSize": { "w": 80, "h": 74 }
+    },
+    {
+      "filename": "NewWarrior_2",
+      "frame": { "x": 160, "y": 0, "w": 80, "h": 74 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 74 },
+      "sourceSize": { "w": 80, "h": 74 }
+    },
+    {
+      "filename": "NewWarrior_179",
+      "frame": { "x": 720, "y": 1320, "w": 80, "h": 74 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 74 },
+      "sourceSize": { "w": 80, "h": 74 }
+    }
+  ],
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
