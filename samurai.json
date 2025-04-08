@@ -1,50 +1,173 @@
 {
 	"textures": [
 		{
-			"image": "Warrior.png",
+			"image": "Download84040 (2).png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 808,
-				"h": 1334
+				"w": 836,
+				"h": 1331
 			},
 			"scale": 1,
-		 "frames": [
-    {
-      "filename": "NewWarrior_0",
-      "frame": { "x": 0, "y": 0, "w": 80, "h": 74 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 74 },
-      "sourceSize": { "w": 80, "h": 74 }
-    },
-    {
-      "filename": "NewWarrior_1",
-      "frame": { "x": 100, "y": 0, "w": 80, "h": 74 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 74 },
-      "sourceSize": { "w": 80, "h": 74 }
-    },
-    {
-      "filename": "NewWarrior_2",
-      "frame": { "x": 160, "y": 0, "w": 80, "h": 74 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 74 },
-      "sourceSize": { "w": 80, "h": 74 }
-    },
-    {
-      "filename": "NewWarrior_179",
-      "frame": { "x": 720, "y": 1320, "w": 80, "h": 74 },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 74 },
-      "sourceSize": { "w": 80, "h": 74 }
-    }
-  ],
-	"meta": {
-		"app": "https://www.codeandweb.com/texturepacker",
-		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:b47e79d9d7bc444a7e0ec5c23242af3a:65fc598c75bb339f1ded9e78c77a83c8:a4f03faeb60a5e7926675c1ef76a889a$"
+            "frames": [
+                {
+                    "filename": "idle_down_0.png",
+                   "frame": {
+                                "x": 0,
+                                "y": 0,
+                                "w": 63,
+                                "h": 60
+                                },
+                                "rotated": false,
+                                "trimmed": false,
+                                "spriteSourceSize": {
+                                "x": 0,
+                                "y": 0,
+                                "w": 63,
+                                "h": 60
+                                },
+                                "sourceSize": {
+                                "w": 836,
+                                "h": 1341
+                                }
+                },
+                {
+                    "filename": "idle_down_1.png",
+                    "frame": {
+                            "x": 63,
+                            "y": 0,
+                            "w": 63,
+                            "h": 60
+                            },
+                            "rotated": false,
+                            "trimmed": false,
+                            "spriteSourceSize": {
+                            "x": 63,
+                            "y": 0,
+                            "w": 63,
+                            "h": 60
+                            },
+                            "sourceSize": {
+                            "w": 836,
+                            "h": 1341
+                            }
+                  },
+                  {
+                    "filename": "idle_down_2.png",
+                    "frame": {
+                            "x": 126,
+                            "y": 0,
+                            "w": 63,
+                            "h": 60
+                            },
+                            "rotated": false,
+                            "trimmed": false,
+                            "spriteSourceSize": {
+                            "x": 126,
+                            "y": 0,
+                            "w": 63,
+                            "h": 60
+                            },
+                            "sourceSize": {
+                            "w": 836,
+                            "h": 1341
+                            }
+                  },
+                  {
+                    "filename": "idle_down_3.png",
+                    "frame": {
+                        "x": 189,
+                        "y": 0,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "rotated": false,
+                        "trimmed": false,
+                        "spriteSourceSize": {
+                        "x": 189,
+                        "y": 0,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "sourceSize": {
+                        "w": 836,
+                        "h": 1341
+                        }
+                  },
+                  {
+                    "filename": "idle_down_4.png",
+                                    "frame": {
+                        "x": 252,
+                        "y": 0,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "rotated": false,
+                        "trimmed": false,
+                        "spriteSourceSize": {
+                        "x": 252,
+                        "y": 0,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "sourceSize": {
+                        "w": 836,
+                        "h": 1341
+                        }
+                  },
+                  {
+                    "filename": "idle_down_5.png",
+                    "frame": {
+                        "x": 315,
+                        "y": 0,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "rotated": false,
+                        "trimmed": false,
+                        "spriteSourceSize": {
+                        "x": 315,
+                        "y": 0,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "sourceSize": {
+                        "w": 836,
+                        "h": 1341
+                        }
+                  },
+                  {
+                    "filename": "idle_down_6.png",
+                    "frame": {
+                        "x": 378,
+                        "y": 0,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "rotated": false,
+                        "trimmed": false,
+                        "spriteSourceSize": {
+                        "x": 378,
+                        "y": 0,
+                        "w": 63,
+                        "h": 60
+                        },
+                        "sourceSize": {
+                        "w": 836,
+                        "h": 1341
+                        }
+                  }
+            ]
+        }
+    ],
+    "meta": {
+	  "app": "sprite-sheet-to-json",
+	  "version": "1.0.0",
+	  "image": "Download84040 (2).png",
+	  "format": "RGBA8888",
+	  "size": {
+		"w": 836,
+		"h": 1341
+	  },
+	  "scale": "1"
 	}
 }
