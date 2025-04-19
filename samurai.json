@@ -1004,7 +1004,133 @@
             "w": 836,
             "h": 1341
           }
-        }
+        },
+		    {                     
+      "filename": "faune_fight_dead_0.png",                     
+      "frame": {
+        "x": 2,
+        "y": 1278,
+        "w": 62,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 1278,
+        "w": 62,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 836,
+        "h": 1341
+      }
+    },
+    {                     
+      "filename": "faune_fight_dead_1.png",                     
+      "frame": {
+        "x": 64,
+        "y": 1278,
+        "w": 62,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 1278,
+        "w": 62,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 836,
+        "h": 1341
+      }
+    },
+    {                     
+      "filename": "faune_fight_dead_2.png",                     
+      "frame": {
+        "x": 126,
+        "y": 1278,
+        "w": 62,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 126,
+        "y": 1278,
+        "w": 62,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 836,
+        "h": 1341
+      }
+    },
+    {                     
+      "filename": "faune_fight_dead_3.png",                     
+      "frame": {
+        "x": 188,
+        "y": 1278,
+        "w": 62,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 188,
+        "y": 1278,
+        "w": 62,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 836,
+        "h": 1341
+      }
+    },
+    {                     
+      "filename": "faune_fight_dead_4.png",                     
+      "frame": {
+        "x": 250,
+        "y": 1278,
+        "w": 62,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 250,
+        "y": 1278,
+        "w": 62,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 836,
+        "h": 1341
+      }
+    },
+    {                     
+      "filename": "faune_fight_dead_5.png",                     
+      "frame": {
+        "x": 312,
+        "y": 1278,
+        "w": 62,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 312,
+        "y": 1278,
+        "w": 62,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 836,
+        "h": 1341
+      }
+    }
                   
             ]
         }
